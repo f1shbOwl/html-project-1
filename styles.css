@@ -1,0 +1,44 @@
+.container {
+    border: 1px solid;
+    max-width: 500px;
+    margin: 0 auto;
+
+}
+
+.box {
+    background-color: aliceblue;
+    padding: 1rem;
+    margin: 1rem;
+    font-size: 42px;
+
+}
+
+.px {
+    font-size: 32px;
+
+}
+
+.rem {
+    font-size: 2rem;
+}
+
+.btn {
+    margin: 3rem;
+
+    background-color: burlywood;
+    border: 0;
+    cursor: pointer;
+    color: aliceblue;
+}
+
+.btn-rem {
+    padding: 5rem;
+    border-radius: .5rem;
+    margin: 5rem;
+    margin-left: 50rem;
+}
+
+.btn-em {
+    padding: 2em;
+    border-radius: .5em;
+}
